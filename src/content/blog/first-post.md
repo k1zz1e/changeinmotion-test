@@ -2,7 +2,7 @@
 title: "Changing web hosts and domain transfer to Cloudflare"
 description: "changeinmotion.tech is transitioning!"
 pubDate: "Nov 18 2025"
-hero-image: "/blog-placeholder-3.png"
+heroImage: "/blog-placeholder-3.png"
 ---
 
 Getting started here! How simple a process it was to transition over from bluehost to Cloudflare.  Of course there was a few small steps I had to learn but overall fairly simple.  
